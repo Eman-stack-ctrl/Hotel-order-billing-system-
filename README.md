@@ -1,9 +1,7 @@
 # Hotel-order-billing-system-
-A C++ based Hotel Order and Billing Management System is developed as a semester project in which I impliment control structures, functions, and basic problem-solving.
+This project is developed in C++ as a end semester project.
 
-Hotel Order and Billing Management System
-
-This project is developed in C++ as a semester assignment. It shows a simple hotel management system for ordering food and generating bills.
+It is a simple console-based system that simulates a hotel ordering and billing process.
 
 Features:
 - Order food items from menu
